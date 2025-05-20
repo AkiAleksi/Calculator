@@ -15,10 +15,14 @@ Avaa komentokehote (cmd) ja suorita seuraava komento:
 
 ```bash
 git clone https://github.com/AkiAleksi/Calculator.git   
+```
 
 Siirry projektikansioon
+```bash
 cd calculator
+```
 
 Käynnistä laskin avaamalla
-
+```bash
 start index.html
+```
