@@ -23,6 +23,12 @@ cd calculator
 ```
 
 Käynnistä laskin avaamalla
+
+Windows
 ```bash
 start index.html
+```
+Mac
+```bash
+open indez.html
 ```
