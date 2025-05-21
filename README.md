@@ -30,5 +30,5 @@ start index.html
 ```
 Mac
 ```bash
-open indez.html
+open index.html
 ```
